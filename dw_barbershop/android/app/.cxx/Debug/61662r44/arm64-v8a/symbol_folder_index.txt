@@ -1,0 +1,1 @@
+/home/vitor.andrade/Área de trabalho/dw11-barbershop/dw_barbershop/build/app/intermediates/cxx/Debug/61662r44/obj/arm64-v8a

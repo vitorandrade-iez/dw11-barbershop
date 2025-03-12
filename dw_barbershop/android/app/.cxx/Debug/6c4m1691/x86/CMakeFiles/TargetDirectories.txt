@@ -1,0 +1,2 @@
+/home/vitor.andrade/Área de trabalho/dw11-barbershop/dw_barbershop/android/app/.cxx/Debug/6c4m1691/x86/CMakeFiles/rebuild_cache.dir
+/home/vitor.andrade/Área de trabalho/dw11-barbershop/dw_barbershop/android/app/.cxx/Debug/6c4m1691/x86/CMakeFiles/edit_cache.dir
